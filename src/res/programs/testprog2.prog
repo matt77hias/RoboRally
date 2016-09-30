@@ -1,0 +1,1 @@
+(seq (move) (if (can-hit-robot) (shoot) (turn clockwise)) (while (energy-at-least 5000) (seq (turn clockwise) (move) (move))) (move) (move))

@@ -1,0 +1,10 @@
+(while
+	(energy-at-least 1000.0)
+	(seq
+		(move)
+		(while
+			(can-hit-robot)
+			(shoot)
+		)
+	)
+)

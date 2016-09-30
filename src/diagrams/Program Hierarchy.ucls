@@ -1,0 +1,373 @@
+<class-diagram version="1.0.8" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="roborally.program.commands.BasicCommand" project="RoboRally" 
+    file="/RoboRally/src/roborally/program/commands/BasicCommand.java" binary="false">    
+    <position height="-1" width="-1" x="351" y="201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="roborally.program.commands.CombinedCommand" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/commands/CombinedCommand.java" binary="false">    
+    <position height="-1" width="-1" x="-107" y="204"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <interface id="3" corner="BOTTOM_RIGHT" language="java" name="roborally.program.commands.Command" project="RoboRally" 
+    file="/RoboRally/src/roborally/program/commands/Command.java" binary="false">    
+    <position height="-1" width="-1" x="346" y="81"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </interface>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="roborally.program.commands.ConditionalCommand" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/commands/ConditionalCommand.java" binary="false">    
+    <position height="-1" width="-1" x="-38" y="295"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="roborally.program.commands.IfCommand" project="RoboRally" 
+    file="/RoboRally/src/roborally/program/commands/IfCommand.java" binary="false">    
+    <position height="-1" width="-1" x="35" y="383"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" name="roborally.program.commands.MoveCommand" project="RoboRally" 
+    file="/RoboRally/src/roborally/program/commands/MoveCommand.java" binary="false">    
+    <position height="-1" width="-1" x="379" y="386"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" name="roborally.program.commands.PickUpAndUseCommand" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/commands/PickUpAndUseCommand.java" binary="false">    
+    <position height="-1" width="-1" x="544" y="386"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="8" corner="BOTTOM_RIGHT" language="java" name="roborally.program.commands.SeqCommand" project="RoboRally" 
+    file="/RoboRally/src/roborally/program/commands/SeqCommand.java" binary="false">    
+    <position height="-1" width="-1" x="-230" y="298"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="9" corner="BOTTOM_RIGHT" language="java" name="roborally.program.commands.ShootCommand" project="RoboRally" 
+    file="/RoboRally/src/roborally/program/commands/ShootCommand.java" binary="false">    
+    <position height="-1" width="-1" x="229" y="388"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="10" corner="BOTTOM_RIGHT" language="java" name="roborally.program.commands.TurnCommand" project="RoboRally" 
+    file="/RoboRally/src/roborally/program/commands/TurnCommand.java" binary="false">    
+    <position height="-1" width="-1" x="747" y="384"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="11" corner="BOTTOM_RIGHT" language="java" name="roborally.program.commands.WhileCommand" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/commands/WhileCommand.java" binary="false">    
+    <position height="-1" width="-1" x="-111" y="382"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="12" corner="BOTTOM_RIGHT" language="java" name="roborally.program.conditions.AndCondition" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/conditions/AndCondition.java" binary="false">    
+    <position height="-1" width="-1" x="-1447" y="377"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="13" corner="BOTTOM_RIGHT" language="java" name="roborally.program.conditions.AtItemCondition" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/conditions/AtItemCondition.java" binary="false">    
+    <position height="-1" width="-1" x="-728" y="381"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="14" corner="BOTTOM_RIGHT" language="java" name="roborally.program.conditions.BasicCondition" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/conditions/BasicCondition.java" binary="false">    
+    <position height="-1" width="-1" x="-902" y="196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="15" corner="BOTTOM_RIGHT" language="java" name="roborally.program.conditions.BinaryCondition" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/conditions/BinaryCondition.java" binary="false">    
+    <position height="-1" width="-1" x="-1374" y="204"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="16" corner="BOTTOM_RIGHT" language="java" name="roborally.program.conditions.CanHitRobotCondition" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/conditions/CanHitRobotCondition.java" binary="false">    
+    <position height="-1" width="-1" x="-1129" y="381"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <interface id="17" corner="BOTTOM_RIGHT" language="java" name="roborally.program.conditions.Condition" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/conditions/Condition.java" binary="false">    
+    <position height="-1" width="-1" x="-718" y="68"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </interface>  
+  <class id="18" corner="BOTTOM_RIGHT" language="java" name="roborally.program.conditions.EnergyAtleastCondition" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/conditions/EnergyAtleastCondition.java" binary="false">    
+    <position height="-1" width="-1" x="-558" y="382"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="19" corner="BOTTOM_RIGHT" language="java" name="roborally.program.conditions.NotCondition" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/conditions/NotCondition.java" binary="false">    
+    <position height="-1" width="-1" x="-412" y="380"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="20" corner="BOTTOM_RIGHT" language="java" name="roborally.program.conditions.OrCondition" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/conditions/OrCondition.java" binary="false">    
+    <position height="-1" width="-1" x="-1316" y="376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="21" corner="BOTTOM_RIGHT" language="java" name="roborally.program.conditions.TrueCondition" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/conditions/TrueCondition.java" binary="false">    
+    <position height="-1" width="-1" x="-986" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="22" corner="BOTTOM_RIGHT" language="java" name="roborally.program.conditions.UnaryCondition" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/conditions/UnaryCondition.java" binary="false">    
+    <position height="-1" width="-1" x="-463" y="202"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="23" corner="BOTTOM_RIGHT" language="java" name="roborally.program.conditions.WallCondition" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/conditions/WallCondition.java" binary="false">    
+    <position height="-1" width="-1" x="-857" y="380"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="24" corner="BOTTOM_RIGHT" language="java" name="roborally.program.languageelement.BasicLanguageElement" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/languageelement/BasicLanguageElement.java" binary="false">    
+    <position height="-1" width="-1" x="-372" y="-295"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <class id="25" corner="BOTTOM_RIGHT" language="java" name="roborally.program.languageelement.CombinedLanguageElement" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/languageelement/CombinedLanguageElement.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="-1173" y="-190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <interface id="26" corner="BOTTOM_RIGHT" language="java" name="roborally.program.languageelement.LanguageElement" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/languageelement/LanguageElement.java" binary="false">    
+    <position height="-1" width="-1" x="-333" y="-426"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </interface>  
+  <class id="27" corner="BOTTOM_RIGHT" language="java" 
+    name="roborally.program.languageelement.ParameterizedBasicLanguageElement" project="RoboRally" 
+    file="/RoboRally/src/roborally/program/languageelement/ParameterizedBasicLanguageElement.java" binary="false">    
+    <position height="-1" width="-1" x="-371" y="-129"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <enumeration id="28" corner="BOTTOM_RIGHT" language="java" name="roborally.program.parameters.TurnDirectionParameter" 
+    project="RoboRally" file="/RoboRally/src/roborally/program/parameters/TurnDirectionParameter.java" binary="false">    
+    <position height="-1" width="-1" x="765" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </enumeration>  
+  <realization id="29">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <generalization id="31">    
+    <bendpoint x="-533" y="97"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <realization id="33">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <generalization id="35">    
+    <bendpoint x="-815" y="-127"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <realization id="37">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <realization id="38">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <generalization id="39">    
+    <bendpoint x="-593" y="-252"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <realization id="40">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="42">    
+    <bendpoint x="-716" y="-1"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="46">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <generalization id="47">    
+    <bendpoint x="475" y="-130"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <realization id="48">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <generalization id="49">    
+    <bendpoint x="-605" y="-14"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <generalization id="50">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="51">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="52">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <realization id="56">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <realization id="57">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <generalization id="58">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <generalization id="60">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="false" package="false" protected="false" private="false"/>    
+    <operations public="false" package="false" protected="false" private="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

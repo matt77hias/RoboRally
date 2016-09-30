@@ -1,0 +1,9 @@
+(while
+	(energy-at-least 1200.0)
+	(seq
+	(turn clockwise)
+	(move)
+	(turn counterclockwise)
+	(move)
+)
+)

@@ -1,0 +1,4 @@
+(while
+  (energy-at-least 1000)
+  (move)
+)
