@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/src/res/roborally-icon.png"></p>
+
 # RoboRally
 Course Object Oriented Programming: RoboRally (*Part IV: A New Hope*)
 
