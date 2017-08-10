@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/src/res/roborally-icon.png"></p>
+<p align="center"><img src="res/roborally-icon.png"></p>
 
 # RoboRally
 Course Object Oriented Programming: RoboRally (*Part IV: A New Hope*)
@@ -18,46 +18,46 @@ This project correctly uses *total*, *defensive* and *nominally* programming sty
 
 ## Design
 ### Terminatable Hierarchy
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_Terminatable Hierarchy.png"></p>
+<p align="center"><img src="res/RoboRally_Terminatable Hierarchy.png"></p>
 
 ### BoardModel Hierarchy
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_BoardModel Hierarchy.png"></p>
+<p align="center"><img src="res/RoboRally_BoardModel Hierarchy.png"></p>
 
 ### InventoryModel Hierarchy
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_InventoryModel Hierarchy Advanced.png"></p>
+<p align="center"><img src="res/RoboRally_InventoryModel Hierarchy Advanced.png"></p>
 
 ### Collector Hierarchy
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_Collector Hierarchy.png"></p>
+<p align="center"><img src="res/RoboRally_Collector Hierarchy.png"></p>
 
 ### EnergyModel Hierarchy
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_EnergyModel Hierarchy Advanced.png"></p>
+<p align="center"><img src="res/RoboRally_EnergyModel Hierarchy Advanced.png"></p>
 
 ### Board Associations
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_Board Associations.png"></p>
+<p align="center"><img src="res/RoboRally_Board Associations.png"></p>
 
 ### Inventory Associations
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_Inventory Associations.png"></p>
+<p align="center"><img src="res/RoboRally_Inventory Associations.png"></p>
 
 ### Value Classes
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_Comparables.png"></p>
+<p align="center"><img src="res/RoboRally_Comparables.png"></p>
 
 ### Program Hierarchy
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_Program Hierarchy.png"></p>
+<p align="center"><img src="res/RoboRally_Program Hierarchy.png"></p>
 
 ### LanguageElement Hierarchy
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_LanguageElement Hierarchy Advanced.png"></p>
+<p align="center"><img src="res/RoboRally_LanguageElement Hierarchy Advanced.png"></p>
 
 ### Condition Hierarchy
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_Condition Hierarchy Advanced.png"></p>
+<p align="center"><img src="res/RoboRally_Condition Hierarchy Advanced.png"></p>
 
 ### Command Hierarchy
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_Command Hierarchy Advanced.png"></p>
+<p align="center"><img src="res/RoboRally_Command Hierarchy Advanced.png"></p>
 
 ### ConditionTester Hierarchy
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_ConditionTester Hierarchy Advanced.png"></p>
+<p align="center"><img src="res/RoboRally_ConditionTester Hierarchy Advanced.png"></p>
 
 ## Program Associations
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_Program Associations 2.png"></p>
+<p align="center"><img src="res/RoboRally_Program Associations 2.png"></p>
 
 ### Connection to UI Layer
-<p align="center"><img src="https://github.com/matt77hias/RoboRally/blob/master/res/RoboRally_UI Layer.png"></p>
+<p align="center"><img src="res/RoboRally_UI Layer.png"></p>
