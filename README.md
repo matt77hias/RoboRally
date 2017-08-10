@@ -1,4 +1,4 @@
-<p align="center"><img src="res/roborally-icon.png"></p>
+<p align="center"><img src="src/res/roborally-icon.png"></p>
 
 # RoboRally
 Course Object Oriented Programming: RoboRally (*Part IV: A New Hope*)
