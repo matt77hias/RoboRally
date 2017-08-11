@@ -1,4 +1,9 @@
-<p align="center"><img src="src/res/roborally-icon.png"></p>
+<img align="left" src="src/res/roborally-icon.png" height="120px"/>
+
+[![License][s1]][li]
+
+[s1]: https://img.shields.io/badge/licence-GPL%203.0-blue.svg
+[li]: https://raw.githubusercontent.com/matt77hias/RoboRally/master/LICENSE.txt
 
 # RoboRally
 Course Object Oriented Programming: RoboRally (*Part IV: A New Hope*)
