@@ -80,7 +80,7 @@ public class Robot extends BoardModel implements EnergyModel, InventoryUser{
 	 * @effect	This new robot is situated on no board
 	 * 			with no position, has the given accu as its accu
 	 * 			and the direction refers the standard direction for robots.
-	 * 			| this(null, null, Accu, STANDARD_ROBOT_DIRECTION);
+	 * 			| this(null, null, Accu, STANDARD_ROBOT_DIRECTION)
 	 */
 	@Raw
 	public Robot(Accu accu)
